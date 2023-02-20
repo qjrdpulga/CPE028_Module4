@@ -6,9 +6,5 @@ class Student:
         return f"{self.name}({self.age})"
 
 p1 = Student("Justin Pulga", 21)
-p2 = Student("Justin Robert", 22)
 
-print("Name: ", p1.name)
-print("Age: ", p1.age)
-print("Name: ", p2.name)
-print("Age: ", p2.age)
+
